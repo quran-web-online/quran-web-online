@@ -7,6 +7,7 @@ Al-Quran mengajarkan kita tentang semua aspek kehidupan - mulai dari bagaimana m
 
 ## Petunjuk Pandaftaran Jaringan Global
 
+- kunjungi & gunakan layanan kami di : https://quran.purwana.net
 - formulir dapat diisi di halaman : https://sites.google.com/view/quran-web-network
 - fork [quran web network](https://github.com/quran-web-online/alquran-30juz.netlify.app/fork)
 <!---
